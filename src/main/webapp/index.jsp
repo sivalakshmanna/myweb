@@ -1,11 +1,10 @@
 <body style="background-color:green;">
 <html>
-<title>JAHNAVI NAME CERMONY INVITATION CARD</title>
+<title>PRAVALIKA</title>
 <body>
-<H1>  style="color: black; font-size: 40px;" align="center">                love praposel                     </H1>
-
-<H2>  style="color: black; font-size: 40px;" align="center">              I LOVE YOU PRAVALLIKA                 </H2>
-
-</p> SIVALAKSHMANNA
+	<h1 style="color: black; font-size: 40px;" align="center">  love praposel</h1>
+</body>
+  <body>
+	<h1 style="color: black; font-size: 40px;" align="center">  pravallika I LOVE YOU</h1>
 </body>
 </html>
