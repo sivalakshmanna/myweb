@@ -24,6 +24,6 @@
     </style>
 </head>
 <body>
-    <p class="blink">  I LOVE YOU PRAVALLIKA  </p>
+    <p class="blink"; style="font-size: 80px;" align="center">  I LOVE YOU PRAVALLIKA  </p>
 </body>
 </html>
