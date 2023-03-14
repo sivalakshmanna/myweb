@@ -6,11 +6,18 @@
 </body>
 <img src="pravalika.jpeg">
 <body>
-<h1 style="color: black; font-size: 80px;" align="center">  I LOVE YOU PRAVALIKA </h1>
+<h1 style="color: black; font-size: 80px;" align="center">  I LOVE YOU PRAVALLIKA </h1>
 </body>
-  <body>
-	<h1 style="color: black; font-size: 80px;" align="center">  pravallika I LOVE YOU</h1>
-</body>
- <blink> pravalika. </blink>
+ <head>
+        <title> PRAVALLIKA </title>
+        <style>
+            blink {
+                color: #2d38be;
+                font-size: 15px;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+
 	
 </html>
