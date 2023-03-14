@@ -3,7 +3,7 @@
 <title>PRAVALIKA</title>
 <body style="text-align: center">
 <h1>Congratulations! multipul server </h1>
-<img src="ntr.png">
+<img src="pravalika.jpeg">
 
 <body>
 	<h1 style="color: black; font-size: 40px;" align="center">  love praposel</h1>
