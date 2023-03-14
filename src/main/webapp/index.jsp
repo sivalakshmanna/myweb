@@ -8,18 +8,22 @@
 <body>
 <h1 style="color: black; font-size: 80px;" align="center">  I LOVE YOU PRAVALLIKA </h1>
 </body>
- <head>
-        <title> PRAVALLIKA </title>
-        <style>
-            blink {
-                color: #2d38be;
-                font-size: 15px;
-                font-weight: bold;
+<head>
+    <title>Blinking feature using CSS</title>
+    <style>
+        .blink {
+            animation: blinker 1.5s linear infinite;
+            color: red;
+            font-family: sans-serif;
+        }
+        @keyframes blinker {
+            50% {
+                opacity: 0;
             }
-        </style>
-    </head>
+        }
+    </style>
+</head>
 <body>
-    <p class="blink">  PRAVALIKA I LOVE YOU </p>
+    <p class="blink">  I LOVE YOU PRAVALLIKA  </p>
 </body>
-	
 </html>
