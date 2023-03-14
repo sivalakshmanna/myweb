@@ -19,10 +19,7 @@
         </style>
     </head>
 <body>
-        <h1> About HTML BLINK Tag</h1>
-        <blink> HTML blink tags are not used these days and are not supported by most browsers. It probably won't work on your current browser. </blink>
-        <p> See the effect above </p>
-    </body>
-
+    <p class="blink">  PRAVALIKA I LOVE YOU </p>
+</body>
 	
 </html>
