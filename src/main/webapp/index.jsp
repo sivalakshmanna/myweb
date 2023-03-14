@@ -4,10 +4,12 @@
 <body style="text-align: center">
 <h1>  love praposal </h1>
 <img src="pravalika.jpeg">
-<blink> style="color: black; font-size: 80px;" align="center"> pravalika  </blink>
 
 <body>
-	<h1 style="color: black; font-size: 80px;" align="center">  I LOVE YOU PRAVALIKA </h1>
+<blink> style="color: black; font-size: 80px;" align="center"> pravalika  </blink>
+<body>
+<body>
+<h1 style="color: black; font-size: 80px;" align="center">  I LOVE YOU PRAVALIKA </h1>
 </body>
   <body>
 	<h1 style="color: black; font-size: 80px;" align="center">  pravallika I LOVE YOU</h1>
