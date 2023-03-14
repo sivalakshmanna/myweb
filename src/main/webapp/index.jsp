@@ -11,4 +11,8 @@
   <body>
 	<h1 style="color: black; font-size: 80px;" align="center">  pravallika I LOVE YOU</h1>
 </body>
+ <body>
+	<blink> pravalika. </blink>
+</body>
+	
 </html>
