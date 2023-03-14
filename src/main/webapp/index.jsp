@@ -1,13 +1,10 @@
 <body style="background-color:green;">
 <html>
 <title>PRAVALIKA</title>
-<body style="text-align: center">
-<h1>  love praposal </h1>
+<body>
+<h1> style="color: black; font-size: 80px;" align="center"> love praposal </h1>
+</body>
 <img src="pravalika.jpeg">
-
-<body>
-<blink> style="color: black; font-size: 80px;" align="center"> pravalika  </blink>
-<body>
 <body>
 <h1 style="color: black; font-size: 80px;" align="center">  I LOVE YOU PRAVALIKA </h1>
 </body>
