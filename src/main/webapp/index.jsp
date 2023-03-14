@@ -2,7 +2,7 @@
 <html>
 <title>PRAVALIKA</title>
 <body>
-<h1> style="color: black; font-size: 80px;" align="center"> love praposal </h1>
+<h1 style="color: black; font-size: 80px;" align="center"> love praposal </h1>
 </body>
 <img src="pravalika.jpeg">
 <body>
